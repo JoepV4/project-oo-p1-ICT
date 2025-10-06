@@ -4,5 +4,7 @@ ons drankje ......
 wij zijn.......
 # bestellen
 (KNOP VOOR NAAR HET BESTEL SCHERM TE GAAN)
-
-
+# onze socials
+(de socials)
+# in contact komen
+email: @PowerPules.nl
