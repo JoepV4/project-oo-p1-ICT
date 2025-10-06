@@ -7,4 +7,4 @@ wij zijn.......
 # onze socials
 (de socials)
 # in contact komen
-email: @PowerPules.nl
+email: @PowerPulse.nl
